@@ -3,8 +3,8 @@
 ## Router R0 Configuration
 
 ```text
-\>en
-\#conf t
+>en
+#conf t
 fig#router ospf 1
 fig#network 125.0.0.0 0.0.0.3 area 0
 fig#network 192.168.0.0 0.0.0.255 area 1
