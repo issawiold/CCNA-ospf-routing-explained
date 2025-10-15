@@ -1,1 +1,0 @@
-# CCNA-ospf-routing-explained
